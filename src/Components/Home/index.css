@@ -1,0 +1,36 @@
+
+.portfolio-container {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  
+  .padding-format{
+    width:60%;
+    margin-left: 20%;
+    text-align: left;
+  }
+  
+  .header {
+    padding: 20px;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+    margin-right:5%;
+  }
+  
+  .footer {
+    padding: 20px;
+    background-color: #444;
+    text-decoration: none;
+    color:#fff
+  }
+  
+  .footer:hover{
+    background-color: #909090;
+  }
