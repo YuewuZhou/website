@@ -11,15 +11,21 @@
     justify-content: space-between; /* Space out the navigation links */
     display: flex; /* Use flexbox to align items horizontally */
     align-items: center; /* Center the navigation links vertically */
-    padding: 20px; /* Adjust the padding as needed */
+     /* Adjust the padding as needed */
 }
 
 .nav-link {
     color: #333; /* Set the text color */
     font-weight: bold; /* Make the font bold */
     text-decoration: none; /* Remove the default underline */
+    padding-left:13.6%;
+    padding-right: 13.6%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
 }
   
 .nav-link:hover {
-color: #f00; /* Apply a different color to the active link */
+    background-color: #444; /* Apply a different color to the active link */
+    color: #f0f0f0;
 }
