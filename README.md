@@ -1,3 +1,11 @@
+12/4
+
+added in amplify backend gql, the connection took a while to get working
+set up instructions: https://docs.amplify.aws/javascript/build-a-backend/graphqlapi/set-up-graphql-api/
+auth keys are in AWS IAM
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
